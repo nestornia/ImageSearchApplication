@@ -1,7 +1,8 @@
-package com.example.imagesearchapplication
+package com.example.imagesearchapplication.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.imagesearchapplication.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
